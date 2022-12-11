@@ -1,6 +1,6 @@
 // Configuration
 const client_secret = 'change'
-const client_id = 'change'
+const client_id = 'ff0547f9-110b-41e7-9a17-8c777f6b99d3'
 const redirect_uri = 'change'
 const webhook_url = 'change'
 const webhook_logging_url = 'change'
